@@ -1,4 +1,4 @@
-# Simulador do Operador do Sistema Elétrico Brasileiro
+# Aprendizado Gamificado da Operação do Sistema Elétrico Brasileiro: Uma experiência prática e interativa
 
 ## Descrição
 
